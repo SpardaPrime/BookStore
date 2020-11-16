@@ -1,0 +1,34 @@
+.valid{
+    font-size:15px;
+    color:rgb(1, 165, 1);
+}
+
+.no-valid{
+    font-size:15px;
+    color:red;  
+}
+.none{
+    font-size:15px;
+    color:white;
+}
+.reg{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.qwe{
+    position: absolute;
+    display: inline;
+    margin-top:38px;
+    margin-left:60px;
+    
+}
+
+
+.nav{
+    text-decoration: none;
+}
+.nav:hover{
+    text-decoration: none;
+}

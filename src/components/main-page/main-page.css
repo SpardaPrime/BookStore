@@ -1,0 +1,13 @@
+.main-page-marg{
+    margin-top: 20%;
+   
+}
+
+.main-block{
+    box-shadow:none;
+
+}
+
+.main-block:hover{
+    box-shadow:5px 5px 5px 5px #b1b1b1;
+}

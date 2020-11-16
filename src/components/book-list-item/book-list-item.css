@@ -1,0 +1,76 @@
+.book-list-item{
+    display:flex;
+    margin-top:5px;
+    margin-bottom:5px;
+    border:1px solid #212529;
+}
+
+.book-list-item .book-cover{
+    flex-shrink: 0;
+    width: 120px;
+    
+}
+
+.book-list-item .book-cover img{
+    max-width: 100%;
+    
+}
+
+.book-list-item .book-details {
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    padding-bottom:10px;
+    align-items:flex-start;
+}
+.img-pos{
+    height:250px;
+}
+
+.img-btn{
+    height:300px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.btn-sz{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    
+}
+.btn-block{
+    padding: 0;
+    margin-top: 0;
+}
+
+.card-body-size{
+height:100px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 5px;
+}
+.card-body-size-1{
+    height:70px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 5px;
+    }
+
+.price-block{
+    font-size:25px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.btn-show{
+   z-index: 99;
+   position: absolute;
+   border:1px solid #212529;
+}
+
